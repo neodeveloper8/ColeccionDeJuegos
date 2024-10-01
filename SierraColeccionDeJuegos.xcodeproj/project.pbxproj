@@ -14,6 +14,7 @@
 		5DE1B9232CAB5C7A0057809D /* SierraColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5DE1B9212CAB5C7A0057809D /* SierraColeccionDeJuegos.xcdatamodeld */; };
 		5DE1B9252CAB5C7B0057809D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DE1B9242CAB5C7B0057809D /* Assets.xcassets */; };
 		5DE1B9282CAB5C7B0057809D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DE1B9262CAB5C7B0057809D /* LaunchScreen.storyboard */; };
+		5DE1B9302CAB69320057809D /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE1B92F2CAB69320057809D /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5DE1B9242CAB5C7B0057809D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5DE1B9272CAB5C7B0057809D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5DE1B9292CAB5C7B0057809D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5DE1B92F2CAB69320057809D /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				5DE1B9262CAB5C7B0057809D /* LaunchScreen.storyboard */,
 				5DE1B9292CAB5C7B0057809D /* Info.plist */,
 				5DE1B9212CAB5C7A0057809D /* SierraColeccionDeJuegos.xcdatamodeld */,
+				5DE1B92F2CAB69320057809D /* JuegosViewController.swift */,
 			);
 			path = SierraColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5DE1B9302CAB69320057809D /* JuegosViewController.swift in Sources */,
 				5DE1B91D2CAB5C7A0057809D /* ViewController.swift in Sources */,
 				5DE1B9192CAB5C7A0057809D /* AppDelegate.swift in Sources */,
 				5DE1B91B2CAB5C7A0057809D /* SceneDelegate.swift in Sources */,
